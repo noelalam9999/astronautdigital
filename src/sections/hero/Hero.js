@@ -245,8 +245,7 @@ class Hero extends React.Component {
                                                 <ServiceHeading>Web Experts</ServiceHeading>
                                                 <ServiceSeparator/>
                                                 <ServiceText>
-                                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vitae ultricies lacus, vitae varius velit. 
-                                                    Pellentesque blandit libero eu turpis condimentum bibendum.
+                                                We build websites that best resonates with your brand and motto
                                                 </ServiceText>
                                             </ServiceContent>
                                         </Service>
@@ -257,11 +256,10 @@ class Hero extends React.Component {
                                                 <ServiceIcon>
                                                         <img src={this.props.mobileIcon.childImageSharp.fluid.src} alt="mobile experts" />
                                                 </ServiceIcon>
-                                                <ServiceHeading>Mobile Experts</ServiceHeading>
+                                                <ServiceHeading>Design Experts</ServiceHeading>
                                                 <ServiceSeparator/>
                                                 <ServiceText>
-                                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vitae ultricies lacus, vitae varius velit. 
-                                                    Pellentesque blandit libero eu turpis condimentum bibendum.
+                                                We will potray your story through Logos, Social Media Banners and Shorts
                                                 </ServiceText>
                                             </ServiceContent>
                                         </Service>
@@ -275,8 +273,7 @@ class Hero extends React.Component {
                                                 <ServiceHeading>SEO Experts</ServiceHeading>
                                                 <ServiceSeparator/>
                                                 <ServiceText>
-                                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vitae ultricies lacus, vitae varius velit. 
-                                                    Pellentesque blandit libero eu turpis condimentum bibendum.
+                                                We will make sure your sites and listings appear on the top three searches
                                                 </ServiceText>
                                             </ServiceContent>
                                         </Service>

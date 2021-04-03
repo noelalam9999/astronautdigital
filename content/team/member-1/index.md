@@ -1,8 +1,8 @@
 ---
 id: 1
 image: './image.jpg'
-name: "Robert Doe"
-profession: "Angular Developer"
+name: "Rizwan Karim Rafat"
+profession: "Chief Executive Officer"
 facebook: "https://www.facebook.com/"
 twitter: "https://www.twitter.com/"
 linkedin: "https://www.linkedin.com/"

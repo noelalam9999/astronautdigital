@@ -60,7 +60,7 @@ export default props => (
   <StaticQuery
       query={graphql`
           query {
-              items: allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(portfolio)/"}}, sort: {fields: [frontmatter___id], order: ASC}, limit: 6) {
+              items: allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(portfolio)/"}}, sort: {fields: [frontmatter___id], order: ASC}, limit: 3) {
                 edges {
                   content: node {
                     frontmatter {

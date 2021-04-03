@@ -101,18 +101,19 @@ class ServicesOne extends React.Component {
                                                     <img src={this.props.mobile.childImageSharp.fluid.src} alt="Mobile App Development" />
                                             </ServiceIcon>
                                             <ServiceHeading>
-                                                Mobile App Development
+                                                Design
                                             </ServiceHeading>
                                             <ServiceSeparator/>
                                             <ServiceList>
                                                 <ServiceListElement>
-                                                    Lorem ipsum dolor sit amet
+                                                   Logo
                                                 </ServiceListElement>
                                                 <ServiceListElement>
-                                                    In vitae ultricies lacus vitae
+                                                Social Graphic
                                                 </ServiceListElement>
                                                 <ServiceListElement>
-                                                    Pellentesque blandit libero
+                                                Brochure/Banner
+
                                                 </ServiceListElement>
                                             </ServiceList>
                                         </ServiceElement>
@@ -130,13 +131,13 @@ class ServicesOne extends React.Component {
                                         <ServiceSeparator/>
                                         <ServiceList>
                                             <ServiceListElement>
-                                                Lorem ipsum dolor sit amet
+                                            Design Customization
                                             </ServiceListElement>
                                             <ServiceListElement>
-                                                In vitae ultricies lacus vitae
+                                            Content Upload
                                             </ServiceListElement>
                                             <ServiceListElement>
-                                                Pellentesque blandit libero
+                                            Responsive Design
                                             </ServiceListElement>
                                         </ServiceList>
                                     </ServiceElement>
@@ -154,13 +155,13 @@ class ServicesOne extends React.Component {
                                         <ServiceSeparator/>
                                         <ServiceList>
                                             <ServiceListElement>
-                                                Lorem ipsum dolor sit amet
+                                            Campaign Development
                                             </ServiceListElement>
                                             <ServiceListElement>
-                                                In vitae ultricies lacus vitae
+                                            Email Marketing Report
                                             </ServiceListElement>
                                             <ServiceListElement>
-                                                Pellentesque blandit libero
+                                            Campaign Optimization
                                             </ServiceListElement>
                                         </ServiceList>
                                     </ServiceElement>
@@ -178,13 +179,13 @@ class ServicesOne extends React.Component {
                                         <ServiceSeparator/>
                                         <ServiceList>
                                             <ServiceListElement>
-                                                Lorem ipsum dolor sit amet
+                                                Site SEO Audit
                                             </ServiceListElement>
                                             <ServiceListElement>
-                                                In vitae ultricies lacus vitae
+                                               Index Optimization
                                             </ServiceListElement>
                                             <ServiceListElement>
-                                                Pellentesque blandit libero
+                                            XML Sitemap
                                             </ServiceListElement>
                                         </ServiceList>
                                     </ServiceElement>
@@ -197,18 +198,18 @@ class ServicesOne extends React.Component {
                                                 <img src={this.props.network.childImageSharp.fluid.src} alt="Mobile App Development" />
                                         </ServiceIcon>
                                         <ServiceHeading>
-                                            Network Management
+                                           Content Writing
                                         </ServiceHeading>
                                         <ServiceSeparator/>
                                         <ServiceList>
                                             <ServiceListElement>
-                                                Lorem ipsum dolor sit amet
+                                            Up to 3 Focus Words
                                             </ServiceListElement>
                                             <ServiceListElement>
-                                                In vitae ultricies lacus vitae
+                                            Topic Research
                                             </ServiceListElement>
                                             <ServiceListElement>
-                                                Pellentesque blandit libero
+                                            References & Citations
                                             </ServiceListElement>
                                         </ServiceList>
                                     </ServiceElement>
@@ -226,13 +227,13 @@ class ServicesOne extends React.Component {
                                             <ServiceSeparator/>
                                             <ServiceList>
                                                 <ServiceListElement>
-                                                    Lorem ipsum dolor sit amet
+                                                   Commercial Use
                                                 </ServiceListElement>
                                                 <ServiceListElement>
-                                                    In vitae ultricies lacus vitae
+                                                    Responsive Design
                                                 </ServiceListElement>
                                                 <ServiceListElement>
-                                                    Pellentesque blandit libero
+                                                    Interactive Mockup
                                                 </ServiceListElement>
                                             </ServiceList>
                                         </ServiceElement>

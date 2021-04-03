@@ -2,7 +2,7 @@
 id: 3
 image: './image.jpg'
 large: './large.jpg'
-name: 'John Doe'
-profession: 'Engineer'
-text: 'Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin mattis sit amet tortor non facilisis. Etiam imperdiet fringilla ullamcorper. Suspendisse finibus ipsum ut tellus feugiat, quis vehicula ligula lacinia.'
+name: 'Tahsin Khan'
+profession: 'CEO, Hessix'
+text: 'Fast Delivery and proper documentation. Astronaut Digital helped me in both my research work and daily business operations. Much recommended'
 ---

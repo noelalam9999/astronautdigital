@@ -1,8 +1,8 @@
 ---
 id: 3
 image: './image.jpg'
-name: "Richard Smith"
-profession: "Finance Expert"
+name: "Imtiaz Alam"
+profession: "Head Graphic Designer"
 facebook: "https://www.facebook.com/"
 twitter: "https://www.twitter.com/"
 linkedin: "https://www.linkedin.com/"

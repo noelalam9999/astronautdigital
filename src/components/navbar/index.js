@@ -112,9 +112,9 @@ class Navbar extends React.Component {
         `
 
         const Logo = styled.img`
-            height: 40px;
+            height: 50px;
             @media (max-width: 1023px) {
-                height: 30px;
+                height: 40px;
             }
         `
 

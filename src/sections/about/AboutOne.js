@@ -213,7 +213,7 @@ class AboutOne extends React.Component {
                         <LeftCol md={6}>
                             <RevealContent>
                                 <Heading>
-                                    Renowned <Color>Software</Color> Company From <Color>London</Color>
+                                    Renowned <Color>Design and Development</Color> Company From <Color>Dhaka</Color>
                                 </Heading>
                             </RevealContent>
                         </LeftCol>
@@ -222,28 +222,28 @@ class AboutOne extends React.Component {
                                 <Col md={6}>
                                     <AnimationContainer animation="fadeInLeft" delay={1000}>
                                         <CounterComponent style={{marginBottom: "100px"}}>
-                                            <Counter value={5} duration={5} delay={1000} symbol="+" text="5 Years of Experience" />
+                                            <Counter value={3} duration={5} delay={1000} symbol="+" text="Years of Experience" />
                                         </CounterComponent>
                                     </AnimationContainer>
                                 </Col>
                                 <Col md={6}>
                                     <AnimationContainer animation="fadeInRight" delay={1000}>
                                         <CounterComponent style={{marginBottom: "100px"}}>
-                                            <Counter value={100} duration={5} delay={1000} symbol="+" text="Clients Worked With" />
+                                            <Counter value={10} duration={5} delay={1000} symbol="+" text="Clients Worked With" />
                                         </CounterComponent>
                                     </AnimationContainer>
                                 </Col>
                                 <Col md={6}>
                                     <AnimationContainer animation="fadeInLeft" delay={1000}>
                                         <CounterComponent>
-                                            <Counter value={15} duration={5} delay={1000} text="Team Members" />
+                                            <Counter value={7} duration={5} delay={1000} text="Team Members" />
                                         </CounterComponent>
                                     </AnimationContainer>
                                 </Col>
                                 <Col md={6}>
                                     <AnimationContainer animation="fadeInRight" delay={1000}>
                                         <CounterComponent>
-                                            <Counter value={10} duration={5} delay={1000} symbol="+" text="Honourable Awards" />
+                                            <Counter value={12} duration={5} delay={1000} symbol="+" text="Project Completions" />
                                         </CounterComponent>
                                     </AnimationContainer>
                                 </Col>

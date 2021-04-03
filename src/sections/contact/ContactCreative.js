@@ -108,7 +108,7 @@ class ContactCreative extends React.Component {
                       <ContactCol md={6}>
                         <Map  
                           title="map"
-                          src="https://maps.google.com/maps?width=500&amp;height=500&amp;hl=en&amp;q=1%20Grafton%20Street%2C%20Dublin%2C%20Ireland+(My%20Business%20Name)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=B&amp;output=embed"/>
+                          src="https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d3651.9418731781043!2d90.37327411367775!3d23.749452134589774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e6!4m3!3m2!1d23.749617!2d90.375321!4m3!3m2!1d23.7492003!2d90.3752907!5e0!3m2!1sen!2sbd!4v1617478381551!5m2!1sen!2sbd"/>
                       </ContactCol>
                     </FormRow>
                   </AnimationContainer>
@@ -124,8 +124,8 @@ class ContactCreative extends React.Component {
                                 Email
                               </InfoTitle>
                               <InfoLinkContainer>
-                                <InfoLink href="mailto:email@yoursite.com">
-                                  email@yoursite.com
+                                <InfoLink href="mailto:info@astronautdigital.net">
+                                  info@astronautdigital.net
                                 </InfoLink>
                               </InfoLinkContainer>
                             </Info>
@@ -143,8 +143,9 @@ class ContactCreative extends React.Component {
                                 Phone
                               </InfoTitle>
                               <InfoLinkContainer>
-                                <InfoLink href="tel:+(123)123-1234">
-                                  (123) 456-7890
+                                <InfoLink href="tel:+(880)174003-5118">
+                                  +880 174003 5118
+                                
                                 </InfoLink>
                               </InfoLinkContainer>
                             </Info>
@@ -162,8 +163,8 @@ class ContactCreative extends React.Component {
                                 Address
                               </InfoTitle>
                               <InfoLinkContainer>
-                                <InfoLink target="_blank" href="https://maps.google.com/maps?ll=53.343244,-6.259338&z=14&t=m&hl=en&gl=US&mapclient=embed&q=1%20Grafton%20Street%20Dublin%20Ireland">
-                                  1 Grafton Street Dublin Ireland
+                                <InfoLink target="_blank" href="https://goo.gl/maps/Sv5Aaj7ENcJCjujF9">
+                                  H57/1, R12/A, Dhanmondi, Dhaka
                                 </InfoLink>
                               </InfoLinkContainer>
                             </Info>
