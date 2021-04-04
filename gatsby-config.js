@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Astronaut Digital',
     description:
-      'Abstract is a beautiful template built using React and Gatsby for creative agency or personal projects',
+      'Helping Brands Take-off with Great Designs',
   },
   pathPrefix: '/',
   plugins: [

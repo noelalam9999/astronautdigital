@@ -211,10 +211,10 @@ class Hero extends React.Component {
                         <Container>
                             <Content>
                                 <Heading1>
-                                    Creative
+                                    Astronaut Digital
                                 </Heading1>
                                 <Heading2>
-                                    Digital Agency
+                                   See your Brand reach newer heights
                                 </Heading2>
                                 <Separator/>
                                 <Type>

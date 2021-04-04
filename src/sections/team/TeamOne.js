@@ -83,7 +83,7 @@ class TeamOne extends React.Component {
                   <Overlay />
                   <Col md={12}>
                     <Container>
-                      <AnimatedHeading text="Team members" />
+                      <AnimatedHeading text="Our Astronauts" />
                     </Container>
                   <TeamContainer>
                     <Container>
