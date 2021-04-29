@@ -1,8 +1,8 @@
 ---
 id: 2
 image: './image.jpg'
-name: "Humaira Rashid"
-profession: "Head of PR"
+name: "Noel Alam"
+profession: "Chief Technology Officer"
 facebook: "https://www.facebook.com/"
 twitter: "https://www.twitter.com/"
 linkedin: "https://www.linkedin.com/"
