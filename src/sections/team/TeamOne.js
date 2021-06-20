@@ -46,7 +46,7 @@ class TeamOne extends React.Component {
         const settings = {
           dots: true,
           swipe: true,
-          infinite: true,
+          infinite: false,
           speed: 500,
           slidesToShow: 4,
           slidesToScroll: 2,
